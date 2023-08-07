@@ -1,2 +1,2 @@
 # locators
-This project shows the different types of element selectors we can use to identify elements on a web page and create automation. It was created using Selenium Python in PyCharm. in order to run this you will need to have Selenium python in your environment. 
+This project shows the different types of element selectors we can use to identify elements on a web page and create automation. It also shows how to do assertions to verify elements are displayed and get an error message if they are not. It was created using Selenium Python in PyCharm. In order to run this you will need to have Selenium python in your environment. 
